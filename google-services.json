@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "799323358118",
+    "firebase_url": "https://code-fab07.firebaseio.com",
+    "project_id": "code-fab07",
+    "storage_bucket": "code-fab07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799323358118:android:8e25569f15a96bcb908567",
+        "android_client_info": {
+          "package_name": "com.mirai.code"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799323358118-o5cuefgfqq51hk3rtestrj2k6a8cegtq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATaBBwiLODm-wjMAY6_EsLJUZHCYXUOx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799323358118-o5cuefgfqq51hk3rtestrj2k6a8cegtq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
