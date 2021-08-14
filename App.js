@@ -24,7 +24,7 @@ export default function App() {
                   <TouchableOpacity style={styles.button}>
                     <Text style={styles.buttonText}>SignUp</Text>
                   </TouchableOpacity>
-                </View>
+                </View> 
                 <View style={styles.footer}>
                     <Text style={styles.footerText}>Forgot password?</Text>
                     <TouchableOpacity>
